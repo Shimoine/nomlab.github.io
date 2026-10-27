@@ -46,12 +46,13 @@ $ cd nomlab.github.io
 make init
 ```
 
-## Write article 
+## Write article
 記事の雛形を作成する．
 ```
 make new
 ```
 Title を入力し，YYYYMMDD-Title で content/articles/YYYYMMDD-title/index.md が作成される．
+著者（`authors`）の初期値には環境変数 `$USER` が設定される．未設定または空の場合は空の著者名になる．
 index.md を編集することで，記事を執筆する．
 
 ## Launch embedded server
