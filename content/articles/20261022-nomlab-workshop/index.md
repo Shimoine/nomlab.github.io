@@ -3,7 +3,7 @@ date = '2026-10-22T15:33:56+09:00'
 draft = false
 title = '2026年度乃村研研修会'
 showAuthor = true
-authors = ['']
+authors = ['maruo']
 +++
 
 こんにちは！M1 の丸尾です．
